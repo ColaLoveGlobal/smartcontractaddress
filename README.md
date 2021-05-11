@@ -1,0 +1,3 @@
+# smartcontractaddress
+TRON Mainnet:TNcGJF1nY9nfQNfG5qUS6oeySqN8J3HXE9
+Heco Mainnet:0x1c163ee628e7eeb8f76f8d5a0c645e72bf88aebc
